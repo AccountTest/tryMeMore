@@ -1,1 +1,1 @@
-<b>toto</>
+<b>toto<b/>
